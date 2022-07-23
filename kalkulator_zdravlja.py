@@ -24,7 +24,7 @@ if odgovor == 1:
         print("Vi ste zdravi.")
     elif indeks_tm <= 30:
         print("Vi biste trebali malo smrsati.")
-    elif indeks_tm <= 35:ł
+    elif indeks_tm <= 35:
         print("Vi ste preteski.")
     elif indeks_tm <= 40:
         print("Vi ste zabrinjavajuce teski")
