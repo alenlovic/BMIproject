@@ -8,7 +8,7 @@ odgovor = int(input("Unesite broj 1 ili 2: "))
 #aplikacika broj 1
 
 if odgovor == 1:
-    visina = float(input("Unesite svoju visinu u centimetrima: "))
+    visina = float(input("Unesite svoju visinu u centimetrimaaa: "))
     tezina = float(input("Unesite vasu tezinu u kilogramima: "))
 
     visina = visina / 100
